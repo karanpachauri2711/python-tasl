@@ -6,7 +6,7 @@ from openai import OpenAI
 import traceback
 
 # Hardcoded API key
-GEMINI_API_KEY = "AIzaSyCwgJs04uWlGYGRTQZ8EWTK1yWev0bYLdo"
+GEMINI_API_KEY = input()
 
 # Initialize session state
 if 'data' not in st.session_state:
