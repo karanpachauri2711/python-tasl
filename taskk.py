@@ -1,4 +1,4 @@
-print("Name:Dhruv Gaur")
+print("Name:Karan pachauri")
 print("College:VGU")
 
 name="Karan pachauri"
