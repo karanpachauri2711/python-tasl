@@ -1,7 +1,7 @@
 print("Name:Dhruv Gaur")
 print("College:VGU")
 
-name="Dhruv Gaur"
+name="Karan pachauri"
 age=20
 branch="AI"
 
